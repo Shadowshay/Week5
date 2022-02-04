@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class GameApp : Singleton<GameApp>
 {
+
   // Start is called before the first frame update
   void Start()
   {
@@ -17,4 +18,6 @@ public class GameApp : Singleton<GameApp>
   {
 
   }
+
+
 }
